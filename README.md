@@ -1,4 +1,6 @@
-📘 README: Impact of Technology on GDP Growth Analysis
+📘 README: 
+
+Impact of Technology on GDP Growth Analysis
 📄 Project Overview
 This project explores the relationship between technology indicators and GDP growth across 120 countries. Using real-world economic and technological data, the analysis investigates how technological adoption, innovation, and digital readiness influence national economic performance.
 The repository contains:
